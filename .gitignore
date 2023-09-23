@@ -1,0 +1,55 @@
+# Project exclude paths
+/.gradle/
+/buildSrc/.gradle/
+/buildSrc/build/
+/buildSrc/out/
+/buildSrc/out/production/classes/
+/Greedy Algorithms/Distinct Summands/out/
+/Greedy Algorithms/Distinct Summands/out/production/classes/
+/Greedy Algorithms/Distinct Summands/out/test/classes/
+/Greedy Algorithms/Minimum Unchangeable Amount/out/
+/Greedy Algorithms/Minimum Unchangeable Amount/out/production/classes/
+/Greedy Algorithms/Minimum Unchangeable Amount/out/test/classes/
+/Greedy Algorithms/Money Change/out/
+/Greedy Algorithms/Money Change/out/production/classes/
+/Greedy Algorithms/Money Change/out/test/classes/
+/Greedy Algorithms/The Main Idea/out/
+/Greedy Algorithms/The Main Idea/out/production/classes/
+/Queries and Incremental Updates/Count Blocks of Ones/out/
+/Queries and Incremental Updates/Count Blocks of Ones/out/production/classes/
+/Queries and Incremental Updates/Count Blocks of Ones/out/test/classes/
+/Queries and Incremental Updates/Count Blocks of Ones with Updates/out/
+/Queries and Incremental Updates/Count Blocks of Ones with Updates/out/production/classes/
+/Queries and Incremental Updates/Count Blocks of Ones with Updates/out/test/classes/
+/Queries and Incremental Updates/Count Ones/out/
+/Queries and Incremental Updates/Count Ones/out/production/classes/
+/Queries and Incremental Updates/Count Ones/out/test/classes/
+/Queries and Incremental Updates/Count Ones with Updates/out/
+/Queries and Incremental Updates/Count Ones with Updates/out/production/classes/
+/Queries and Incremental Updates/Count Ones with Updates/out/test/classes/
+/Queries and Incremental Updates/Range Sum Queries/out/
+/Queries and Incremental Updates/Range Sum Queries/out/production/classes/
+/Queries and Incremental Updates/Range Sum Queries/out/test/classes/
+/util/build/
+/util/out/
+/util/out/production/classes/
+/Warmup/Estimating the Running Time/out/
+/Warmup/Estimating the Running Time/out/production/classes/
+/Warmup/Maximum Pairwise Product/build/
+/Warmup/Maximum Pairwise Product/out/
+/Warmup/Maximum Pairwise Product/out/production/classes/
+/Warmup/Maximum Pairwise Product/out/test/classes/
+/Warmup/Maximum Pairwise Product — Fixing the Time Limit Issue/build/
+/Warmup/Maximum Pairwise Product — Fixing the Time Limit Issue/out/
+/Warmup/Maximum Pairwise Product — Fixing the Time Limit Issue/out/production/classes/
+/Warmup/Maximum Pairwise Product — Fixing the Time Limit Issue/out/test/classes/
+/Warmup/Maximum Pairwise Product — Fixing the Integer Overflow Issue/build/
+/Warmup/Maximum Pairwise Product — Fixing the Integer Overflow Issue/out/
+/Warmup/Maximum Pairwise Product — Fixing the Integer Overflow Issue/out/production/classes/
+/Warmup/Maximum Pairwise Product — Fixing the Integer Overflow Issue/out/test/classes/
+/Warmup/Sum of Two Digits/build/
+/Warmup/Sum of Two Digits/out/
+/Warmup/Sum of Two Digits/out/production/classes/
+/Warmup/Sum of Two Digits/out/test/classes/
+/Warmup/Welcome/out/
+/Warmup/Welcome/out/production/classes/
